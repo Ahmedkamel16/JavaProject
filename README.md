@@ -25,5 +25,5 @@ The "Simple Paint Brush" is a Java-based drawing program implemented as an Apple
 - Fill shapes option for solid drawings.
 - Undo functionality to remove the last drawn shape.
 - "Clear All" button to reset the drawing area.
-- "Save" button to save your drawing as an image on your device.
+- "Save" button to download your drawing as an image to your device.
 
